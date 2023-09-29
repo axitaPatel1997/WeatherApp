@@ -1,0 +1,6 @@
+framework module Pods_Prectical_28Sep {
+  umbrella header "Pods-Prectical_28Sep-umbrella.h"
+
+  export *
+  module * { export * }
+}
